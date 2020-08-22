@@ -1,4 +1,4 @@
-class BangunRuang():
+class BangunRuang(object):
     def info(self):
         pass
 
