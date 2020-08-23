@@ -10,6 +10,5 @@ class PersegiPanjang(BangunRuang):
     def info(self):
         return f'ini adalah object dari Persegi Panjang dengan panjang {self.p} dan lebar {self.l}'
 
-
     def hitung_luas(self):
         return self.p * self.l
